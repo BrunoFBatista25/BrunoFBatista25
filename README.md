@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👨🏿‍💻 Bruno 
 
-<!--
-**BrunoFBatista25/BrunoFBatista25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend / Data Scientist`**
 
-Here are some ideas to get you started:
+Me chamo Bruno Felipe, tenho 19 anos e sou natural do Rio de Janeiro.
+Atualmente Curso Análise e Desenvolvimento de Sistemas na Unigranrio. Sou fascinado por técnologia e ciências exatas, uso essa conta para relatar meu desenvolvimento com as linguagens python e Java em uma trilha voltada a Análise de Dados e Backend. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###  Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&locale=pt-br&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&theme=tokyonight&langs_count=9&custom_title=Tecnologias%20Mais%20Usadas)
+
+</div>
+
