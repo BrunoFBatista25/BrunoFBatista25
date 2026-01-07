@@ -6,14 +6,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoFBatista25/BrunoFBatista25/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoFBatista25/BrunoFBatista25/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrunoFBatista25/BrunoFBatista25/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h3 align="left">Linguagens e Tecnologia</h3>
 
 ###
@@ -52,13 +44,6 @@
 
 ###
 
-### 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&locale=pt-br&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&theme=tokyonight&langs_count=9&custom_title=Tecnologias%20Mais%20Usadas)
 
 </div>
 
