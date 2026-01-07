@@ -4,12 +4,7 @@
 
 <h4 align="left">Me chamo Bruno Felipe, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente Curso Análise e Desenvolvimento de Sistemas na Unigranrio. Sou fascinado por técnologia e ciências exatas, uso essa conta para relatar meu desenvolvimento com as linguagens python e Java em uma trilha voltada a Análise de Dados e Backend.</h4>
 
-###
-
-<h3 align="left">Linguagens e Tecnologia</h3>
-
-###
-
+<h2 align="left">Linguagens e Tecnologia</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -22,12 +17,8 @@
 
 <br clear="both">
 
-<h3 align="left">Bibliotecas</h3>
-
-###
-
+<h2 align="left">Bibliotecas</h2>
 <br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
