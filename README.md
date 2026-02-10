@@ -7,7 +7,7 @@
 
 ## 🌐 Where to find me
 <p align="left">
-  <a href="https://www.linkedin.com/in/bruno-felipe-do-ros%C3%A1rio-batista-82b67b3a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunofelipedoros%C3%A1riobatista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Bruno Felipe do Rosário Batista%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
