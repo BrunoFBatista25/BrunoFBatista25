@@ -1,40 +1,50 @@
-# 👨🏿‍💻 Bruno 
+# Hi 👋, I'm Bruno Felipe
 
-**`Desenvolvedor Backend / Data Scientist`**
+**Backend Devloper | Spring Boot**  
+🇧🇷 Brazil
 
-<h4 align="left">Me chamo Bruno Felipe, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente Curso Análise e Desenvolvimento de Sistemas na Unigranrio. Sou fascinado por técnologia e ciências exatas, uso essa conta para relatar meu desenvolvimento com as linguagens python e Java em uma trilha voltada a Análise de Dados e Backend.</h4>
+---
 
-<h2 align="left">Linguagens e Tecnologia</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+## 🌐 Where to find me
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-felipe-do-ros%C3%A1rio-batista-82b67b3a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Bruno Felipe do Rosário Batista%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-###
+---
+## 🛠️ Tech Stack
 
-<br clear="both">
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-<h2 align="left">Bibliotecas</h2>
-<br clear="both">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&theme=tokyonight" />
+</p>
 
 
-</div>
+---
 
+## 📖 Philosophy
+
+"Code is the way we change the virtual world — and, through it, the real one."
+
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
