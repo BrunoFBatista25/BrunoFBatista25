@@ -39,17 +39,6 @@ Git • Linux • System Design • Integration Architecture
 
 ---
 
-## 🧠 Engineering Mindset
-
-I enjoy building systems that require **understanding both software and physical processes**.
-
-From designing backend services to studying **industrial controllers and automation systems**, I’m constantly exploring how technology can connect **logic, machines, and data**.
-
-My approach is simple:  
-**learn deeply, build consistently, and understand how systems actually work.**
-
----
-
 ## 🔧 What I'm Building
 
 On this profile you will find experiments and projects involving:
@@ -66,5 +55,5 @@ These projects are part of a long-term goal:
 ---
 
 ## ⚡ Philosophy
-
-> I like building systems where code leaves the screen and starts moving machines.
+> "Machines take me by surprise with great frequency."  
+> — Alan Turing
