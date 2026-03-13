@@ -35,7 +35,7 @@ PLC Systems • Ladder Logic • TwinCAT • CodeSys • SCADA • Elipse
 Java • Spring Boot • REST APIs • Maven
 
 ### Tools & Engineering
-Git • Linux • System Design • Integration Architecture
+Git • System Design • Integration Architecture
 
 ---
 
