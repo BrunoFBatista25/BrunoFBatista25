@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Connecting Code and Machines ⚙️</h1>
-  <p><strong>Bruno Felipe</strong> • Embedded Systems & Backend Engineer | Pentest & Industrial Automation</p>
+  <p><strong>Bruno Felipe</strong></p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=620&lines=Software+that+controls+the+physical+world;Embedded+Systems+%7C+Cybersecurity+%7C+Automation;From+PLC+to+Pentest+with+Python" alt="Typing SVG" />
 </div>
