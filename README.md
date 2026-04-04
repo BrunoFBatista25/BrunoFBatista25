@@ -79,7 +79,7 @@ Build intelligent, reliable, and secure systems that bridge the **digital and ph
 ## 📫 Connect
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/brunofelipedorsbatista/">LinkedIn</a> • 
+   • <a href="https://www.linkedin.com/in/brunofelipedorsbatista/">LinkedIn</a> • 
 </div>
 
 ---
