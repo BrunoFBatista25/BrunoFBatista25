@@ -1,25 +1,37 @@
 <div align="center">
   <h1>Connecting Code and Machines ⚙️</h1>
   <p><strong>Bruno Felipe</strong></p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=620&lines=Software+that+controls+the+physical+world;Embedded+Systems+%7C+Cybersecurity+%7C+Automation;From+PLC+to+Pentest+with+Python" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=620&lines=Engineering+Software+for+the+Physical+World;Embedded+Systems+%7C+Automation+%7C+Cybersecurity;Control+%26+Automation+Engineering+Student" />
 </div>
 
 ---
 
-I'm a developer focused on **embedded systems** and **backend engineering**, currently studying **Control and Automation Engineering**. My passion lies in building software that doesn't just run on servers — it **interacts directly with the physical world**: machines, sensors, controllers, and industrial processes, with a strong focus on **cybersecurity and pentesting**.
+## 👨🏿‍💻 About Me
 
-I work mainly with **Linux** environments (Ubuntu for smooth development and **Kali Linux** for security and pentest), **Python** for automation scripts, security tools, and rapid prototyping, **Rust** for safe and high-performance embedded systems, and **Django** when I need robust web applications. I use **Vim** for lightning-fast editing and **VS Code** for full-featured development.
+Control and Automation Engineering student focused on **embedded systems**, **industrial automation**, and **secure software development**.
+
+I’m interested in building technology that goes beyond traditional software — systems that interact with **machines, sensors, controllers, and real-world industrial processes**.
+
+My work combines:
+
+- Low-level programming  
+- Hardware–software integration  
+- Automation engineering concepts  
+- Cybersecurity mindset applied to industrial environments  
+
+Currently developing projects involving embedded programming, automation logic, and security tooling.
 
 ---
 
 ## 🚀 Areas of Interest
-- **Embedded Systems**  
-- **Industrial Automation**  
-- **Cybersecurity & Pentest**  
-- **Industrial IoT**  
-- **Computer Vision**  
-- **Software + Hardware Integration**  
+
+- Embedded Systems  
+- Industrial Automation  
+- Industrial Cybersecurity  
+- Industrial IoT (IIoT)  
+- Systems Programming  
+- Software + Hardware Integration  
 
 ---
 
@@ -31,15 +43,16 @@ I work mainly with **Linux** environments (Ubuntu for smooth development and **K
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Environments & Tools
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-### Backend & Web
+
+### Backend & Integration
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Industrial Automation
@@ -47,22 +60,23 @@ I work mainly with **Linux** environments (Ubuntu for smooth development and **K
 
 ---
 
-## 🔧 What I'm Building
-- **Embedded systems** projects using Rust and C/C++  
-- **Pentest** tools and security scripts with Python  
-- Industrial automation simulations and PLC logic  
-- Web applications with **Django** for monitoring and integration  
-- Experiments connecting software with real or simulated hardware  
+## 🔧 Current Focus
 
-**Long-term goal:** Build intelligent, secure systems that bridge the digital and physical worlds.
+- Embedded systems development with **C/C++ and Rust**
+- Automation and PLC logic simulations
+- Python tooling for automation and security
+- Industrial monitoring and integration systems
+- Experiments connecting software with real or simulated hardware
+
+---
+
+## 🎯 Professional Goal
+
+Build intelligent, reliable, and secure systems that bridge the **digital and physical worlds**, contributing to the evolution of Industry 4.0 and industrial cybersecurity.
 
 ---
 
-## ⚡ Philosophy
-> "Machines take me by surprise with great frequency."  
-> — Alan Turing
-
----
+## 📫 Connect
 
 <div align="center">
   <a href="mailto:your.email@example.com">📧 Email</a> • 
@@ -70,4 +84,6 @@ I work mainly with **Linux** environments (Ubuntu for smooth development and **K
   <a href="https://github.com/yourusername">GitHub</a>
 </div>
 
-*Updated April 2026 • Rio de Janeiro, Brazil*
+---
+
+> "Machines take me by surprise with great frequency." — Alan Turing
