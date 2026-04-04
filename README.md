@@ -78,10 +78,8 @@ Build intelligent, reliable, and secure systems that bridge the **digital and ph
 
 ## 📫 Connect
 
-<div align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-  <a href="https://github.com/yourusername">GitHub</a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/brunofelipedorsbatista/">LinkedIn</a> • 
 </div>
 
 ---
