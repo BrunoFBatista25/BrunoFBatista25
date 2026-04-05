@@ -7,7 +7,7 @@
 **Bruno Felipe** · Control & Automation Engineering · Embedded Systems · Industrial Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofelipedorsbatista/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/SEU_USERNAME_AQUI)
+[![Profile Views](https://komarev.com/ghpvc/?username=BrunoFBatista25&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/BrunoFBatista25)
 
 </div>
 
@@ -61,16 +61,17 @@ struct Bruno {
 
 <div align="center">
 
+<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub nas 3 linhas abaixo -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFBatista25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
 
 </div>
 
@@ -80,6 +81,7 @@ struct Bruno {
 
 <div align="center">
 
+<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFBatista25&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true"/>
 
 </div>
@@ -112,6 +114,7 @@ struct Bruno {
 
 <div align="center">
 
+<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub -->
 <img src="https://github-profile-trophy.vercel.app/?username=BrunoFBatista25&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
