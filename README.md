@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Connecting Code and Machines ⚙️</h1>
   <p><strong>Bruno Felipe</strong></p>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=620&lines=Engineering+Software+for+the+Physical+World;Embedded+Systems+%7C+Automation+%7C+Cybersecurity;Control+%26+Automation+Engineering+Student" />
-</div>
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=Rust+%7C+Python+%7C+C+%7C+C%2B%2B;Embedded+Systems+%26+Robotics+Engineer;From+bare-metal+to+the+web+%E2%80%94+full+stack;Arduino+%7C+ESP32+%7C+ARM+Cortex;Low-level+code%2C+high-level+thinking;IoT+%7C+Automation+%7C+Cybersecurity;I+write+code+that+moves+things+in+the+real+world" />
 
 ---
 
