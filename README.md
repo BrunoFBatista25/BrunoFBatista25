@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor focado em duas áreas complementares: **Back-end .NET** para aplicações empresariais e **Sistemas Embarcados** para automação industrial.
+Desenvolvedor apaixonado por duas áreas que se complementam perfeitamente: **Back-end .NET** para sistemas empresariais escaláveis e **Sistemas Embarcados** para automação industrial.
 
-Aplico conceitos de baixo nível (gerenciamento de memória, timing, protocolos) para escrever C# mais eficiente, e boas práticas de engenharia de software (Clean Code, SOLID, testes, CI/CD) para entregar firmware confiável.
+Uno o melhor dos dois mundos: aplico conceitos de baixo nível (gerenciamento de memória, timing preciso e protocolos de comunicação) para escrever código C# mais eficiente e robusto, enquanto trago disciplina de engenharia de software (Clean Architecture, testes automatizados e CI/CD) para entregar firmware confiável em ambientes críticos.
 
 ```csharp
 public class Dev
@@ -32,15 +32,15 @@ public class Dev
 
 ## 🛠️ Tech Stack
 
-### Enterprise / Back-end
+### Enterprise & Back-end
 ![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Embarcados & Automação
+### Embarcados & Automação Industrial
 ![C](https://img.shields.io/badge/C-0691B7?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0691B7?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -48,7 +48,7 @@ public class Dev
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2A6478?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Ferramentas & Outros
+### Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -69,24 +69,32 @@ public class Dev
 
 ---
 
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFBatista25&bg_color=0D1117&color=7C3AED&line=7C3AED&point=06B6D4&area=true&hide_border=true"/>
+</div>
+
+---
+
 ## 🚀 Áreas de Atuação
 
-| Domínio                    | Foco Principal |
-|---------------------------|---------------|
-| **🟣 .NET Enterprise**    | ASP.NET Core, Clean Architecture, DDD, REST/gRPC, Background Services, Docker |
-| **🔵 Embarcados**         | C/C++, Rust (no_std), ESP32, FreeRTOS, Bare-metal |
-| **🏭 Automação Industrial** | PLC, Ladder, TwinCAT, Codesys, SCADA, IIoT |
-| **🔌 Protocolos**         | Modbus, MQTT, I²C, SPI, CAN |
-| **🔒 Segurança**          | ICS/OT Security, Purdue Model, segmentação de rede |
+| Domínio                      | Principais Tecnologias e Foco |
+|-----------------------------|-------------------------------|
+| **🟣 .NET Enterprise**      | ASP.NET Core, Clean Architecture, DDD, REST/gRPC, Background Services, Docker |
+| **🔵 Sistemas Embarcados**  | C/C++, Rust (no_std), ESP32, FreeRTOS, Bare-metal |
+| **🏭 Automação Industrial** | PLC (Ladder), TwinCAT, Codesys, SCADA, IIoT |
+| **🔌 Comunicação**          | Modbus, MQTT, I²C, SPI, CAN |
+| **🔒 Segurança Industrial** | ICS/OT Security, Purdue Model, segmentação de redes |
 
 ---
 
 ## 🎯 Atualmente Estudando
 
 - ASP.NET Core avançado (performance, middleware, gRPC)
-- Rust embarcado (`no_std`, `embedded-hal`, drivers bare-metal)
+- Rust para sistemas embarcados (`no_std`, `embedded-hal`)
 - Segurança em ambientes ICS/OT
-- Aplicação prática de Clean Architecture em projetos reais
+- Arquitetura limpa em projetos reais de grande escala
 
 ---
 
@@ -100,7 +108,6 @@ public class Dev
 
 <div align="center">
   <strong>"As máquinas me surpreendem com muita frequência. - Alan Turin"</strong><br><br>
-  Com mente sempre aberta a Inovação.</strong>.
+  <em>Sempre Aberto a Inovação.</em>
 </div>
-
-
+```
