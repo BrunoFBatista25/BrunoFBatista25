@@ -1,30 +1,30 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=Rust+%7C+Python+%7C+C+%7C+C%2B%2B;Embedded+Systems+%26+Robotics+Engineer;From+bare-metal+to+the+web+%E2%80%94+full+stack;Arduino+%7C+ESP32+%7C+ARM+Cortex;Low-level+code%2C+high-level+thinking;IoT+%7C+Automation+%7C+Cybersecurity;I+write+code+that+moves+things+in+the+real+world" />
-
-# Connecting Code and Machines ⚙️
-
-**Bruno Felipe** · Control & Automation Engineering · Embedded Systems · Industrial Cybersecurity
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofelipedorsbatista/)
-[![Profile Views](https://komarev.com/ghpvc/?username=BrunoFBatista25&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/BrunoFBatista25)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=720&lines=C%23+%7C+.NET+8+%7C+ASP.NET+Core;C+%2F+C%2B%2B+%7C+Rust+%7C+Embedded;Back-end+Enterprise+%26+Sistemas+Embarcados;Do+servidor+ao+chip+%E2%80%94+mesma+mentalidade;Automação+Industrial+%7C+IIoT+%7C+ICS+Security" />
+  
+  # Bruno Felipe
+  **Dev C# · Automation & Embedded Systems Engineer**  
+  Construindo soluções robustas — do back-end empresarial ao firmware embarcado.
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoFBatista25)
+  [![Profile Views](https://komarev.com/ghpvc/?username=BrunoFBatista25&color=7C3AED&style=flat-square&label=Profile+Views)](https://github.com/BrunoFBatista25)
 </div>
 
 ---
 
-## 👨🏿‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-Control and Automation Engineering student focused on **embedded systems**, **industrial automation**, and **secure software development**.
+Desenvolvedor focado em duas áreas complementares: **Back-end .NET** para aplicações empresariais e **Sistemas Embarcados** para automação industrial.
 
-I build technology that goes beyond traditional software — systems that interact with **machines, sensors, controllers, and real-world industrial processes**.
+Aplico conceitos de baixo nível (gerenciamento de memória, timing, protocolos) para escrever C# mais eficiente, e boas práticas de engenharia de software (Clean Code, SOLID, testes, CI/CD) para entregar firmware confiável.
 
-```rust
-struct Bruno {
-    focus:    ["Embedded Systems", "Industrial Automation", "ICS Security"],
-    hardware: ["Arduino", "ESP32", "ARM Cortex", "PLCs"],
-    mindset:  "Low-level code, high-level thinking",
-    goal:     "Bridge the digital and physical worlds",
+```csharp
+public class Dev
+{
+    public string[] Enterprise = { ".NET 8", "ASP.NET Core", "REST APIs", "SQL Server" };
+    public string[] Embedded   = { "C", "C++", "Rust", "ESP32", "FreeRTOS", "Modbus" };
+    public string Mindset      = "código que funciona no servidor e no chip";
+    public string Goal         = "entregar valor — seja em nuvem ou bare-metal";
 }
 ```
 
@@ -32,99 +32,75 @@ struct Bruno {
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Enterprise / Back-end
+![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Embarcados & Automação
+![C](https://img.shields.io/badge/C-0691B7?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-0691B7?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2A6478?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Systems & Tools
+### Ferramentas & Outros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-### Backend & Integration
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Industrial Automation
-![PLC](https://img.shields.io/badge/PLC-FF6B35?style=for-the-badge&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-2C3E50?style=for-the-badge&logoColor=white)
-![TwinCAT](https://img.shields.io/badge/TwinCAT-0078D4?style=for-the-badge&logoColor=white)
-![CodeSys](https://img.shields.io/badge/CodeSys-E74C3C?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub nas 3 linhas abaixo -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFBatista25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBatista25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFBatista25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFBatista25&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🚀 Áreas de Atuação
 
-<div align="center">
-
-<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoFBatista25&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 Areas of Interest
-
-| Domain | Focus |
-|---|---|
-| ⚙️ Embedded Systems | C/C++, Rust, ARM Cortex, ESP32, Arduino |
-| 🏭 Industrial Automation | PLC, Ladder Logic, SCADA, TwinCAT, CodeSys |
-| 🔒 Industrial Cybersecurity | ICS/OT Security, Network Segmentation |
-| 🌐 Industrial IoT (IIoT) | Edge computing, sensor integration |
-| 💻 Systems Programming | Low-level, bare-metal, real-time OS |
+| Domínio                    | Foco Principal |
+|---------------------------|---------------|
+| **🟣 .NET Enterprise**    | ASP.NET Core, Clean Architecture, DDD, REST/gRPC, Background Services, Docker |
+| **🔵 Embarcados**         | C/C++, Rust (no_std), ESP32, FreeRTOS, Bare-metal |
+| **🏭 Automação Industrial** | PLC, Ladder, TwinCAT, Codesys, SCADA, IIoT |
+| **🔌 Protocolos**         | Modbus, MQTT, I²C, SPI, CAN |
+| **🔒 Segurança**          | ICS/OT Security, Purdue Model, segmentação de rede |
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Atualmente Estudando
 
-- 🦀 Embedded systems with **Rust** (no_std, embedded-hal)
-- ⚡ PLC programming and automation logic simulations
-- 🐍 Python tooling for automation and security
-- 🔌 Connecting software with real/simulated hardware
-- 🛡️ Security mindset applied to industrial environments
+- ASP.NET Core avançado (performance, middleware, gRPC)
+- Rust embarcado (`no_std`, `embedded-hal`, drivers bare-metal)
+- Segurança em ambientes ICS/OT
+- Aplicação prática de Clean Architecture em projetos reais
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<!-- SUBSTITUA "BrunoFBatista25" pelo seu username real do GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=BrunoFBatista25&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=BrunoFBatista25&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
 
 <div align="center">
-
-> *"Machines take me by surprise with great frequency."* — Alan Turing
-
-**Building intelligent, reliable, and secure systems that bridge the digital and physical worlds.**
-
+  <strong>"As máquinas me surpreendem com muita frequência. - Alan Turin"</strong><br><br>
+  Com mente sempre aberta a Inovação.</strong>.
 </div>
+
+
