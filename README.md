@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨🏿‍💻Sobre Mim
 
 Desenvolvedor apaixonado por duas áreas que se complementam perfeitamente: **Back-end .NET** para sistemas empresariais escaláveis e **Sistemas Embarcados** para automação industrial.
 
