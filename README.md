@@ -16,7 +16,7 @@ Apaixonado por construir sistemas backend robustos, escaláveis e bem arquitetad
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨🏿‍💻Sobre Mim
 
 Desenvolvedor **C# .NET** com foco em soluções **Enterprise**.
 
