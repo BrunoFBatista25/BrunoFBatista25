@@ -10,7 +10,6 @@ Apaixonado por construir sistemas backend robustos, escaláveis e bem arquitetad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoFBatista25)
-[![Profile Views](https://komarev.com/ghpvc/?username=BrunoFBatista25&color=7C3AED&style=flat-square&label=Profile+Views)](https://github.com/BrunoFBatista25)
 
 </div>
 
