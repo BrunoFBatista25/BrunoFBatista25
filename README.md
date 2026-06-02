@@ -57,21 +57,17 @@ public class Dev
 ![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Arquitetura & Boas Práticas
 
 - ✅ **Domain-Driven Design (DDD)**
 - ✅ **Clean Architecture / Vertical Slice Architecture**
 - ✅ **Microsserviços** — design, comunicação e orquestração
-- ✅ **CQRS + MediatR**
 - ✅ **Event-Driven Architecture** — RabbitMQ / Kafka
 - ✅ **REST APIs** — Swagger/OpenAPI, versionamento e boas práticas
 - ✅ **gRPC** — comunicação interna entre serviços
-- ✅ **Background Services & Hangfire**
 - ✅ **Testes** — xUnit, Moq, FluentAssertions
 
 ### DevOps & Cloud Native
@@ -84,27 +80,16 @@ public class Dev
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Observabilidade & Resiliência
-
-- 📊 **Serilog + OpenTelemetry** — logging e rastreamento distribuído
-- 📈 **Prometheus + Grafana** — monitoramento e dashboards
-- 🔁 **Polly** — retry, circuit breaker e fallback
-- ❤️ **Health Checks** — disponibilidade de serviços
-
----
-
 ## 🚀 Áreas de Atuação
 
 | Domínio | Tecnologias e Foco Principal |
 |---|---|
-| 🟣 **Microsserviços .NET** | ASP.NET Core, DDD, CQRS, gRPC, RabbitMQ / Kafka |
+| 🟣 **Microsserviços .NET** | ASP.NET Core, DDD, gRPC, RabbitMQ / Kafka |
 | 🏗️ **Arquitetura Enterprise** | Clean Architecture, Vertical Slice, Hexagonal |
 | 🔄 **DevOps & CI/CD** | Docker, Kubernetes, GitHub Actions, GitLab CI |
-| 🗄️ **Banco de Dados** | SQL Server, PostgreSQL, Redis, EF Core |
-| 📡 **APIs & Integração** | REST, gRPC, WebSockets, Event-Driven |
-| 🔒 **Qualidade & Segurança** | xUnit, Polly, OWASP, JWT / OAuth2, Keycloak |
+| 🗄️ **Banco de Dados** | SQL Server, PostgreSQL, MySql |
+| 📡 **APIs & Integração** | REST, gRPC, WebSocket, Event-Driven |
+| 🔒 **Qualidade & Segurança** | xUnit, JWT / OAuth2|
 
 ---
 
